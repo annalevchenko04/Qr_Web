@@ -6,7 +6,7 @@ colorama==0.4.6
 dill==0.3.7
 Django==3.2.25
 django-stubs==4.2.0
-django-stubs-ext==4.2.7
+django-stubs-ext==4.2.0
 isort==5.13.2
 mccabe==0.7.0
 mypy==1.8.0
